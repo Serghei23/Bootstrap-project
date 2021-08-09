@@ -1,0 +1,29 @@
+.navbar{
+ background-color: rgb(53, 66, 92);   
+}
+
+.navbar{
+    height: 70px;   
+   }
+   
+   .navbar .container-fluid .navbar-brand{
+    font-size: 28px;  
+    font-weight: bold; 
+   }
+   .container{
+    padding: 100px;   
+   }
+   
+   .d-block {
+     height: 550px;
+    
+   }
+   .cards{
+     display: flex;
+     flex: row; 
+     justify-content: space-around; 
+   }
+
+    
+  
+   
